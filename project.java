@@ -13,12 +13,13 @@ public class project {
         { 
             for(int z=number-x;z>=1;z--)
         {
-            System.out.print(" ");
+                System.out.print(" ");
         }
             for(int y=1;y<=x;y++)
             {
                 System.out.print(y+" ");
             }
+            
             System.out.println("");
         }
         
